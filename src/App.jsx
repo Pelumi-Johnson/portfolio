@@ -1487,7 +1487,7 @@ export default function PortfolioSite() {
   ];
 
   const resumeUrl =
-    "https://1drv.ms/w/c/23f0955b17273bb4/IQABfSV-ymYwRpg3VWx-XtwAAbiqmyCN_IX1KfLAXDi1Ty8?e=0hYmLk";
+    "https://drive.google.com/drive/home";
 
   const moreProjectsUrl = "https://github.com/Pelumi-Johnson";
 
